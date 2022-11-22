@@ -1,0 +1,100 @@
+*{
+    align-items: center;
+    text-align: center;
+}
+
+
+body{
+    margin: 20px;
+    background-color: #333;
+    padding: 20px;
+    
+}
+.calculator{
+
+color:#f7f7f7 ;
+height: 100%;
+width: 100%;
+border: solid;
+border-radius: 15px;
+}
+
+.bord {
+    border: solid;
+    border-radius: 15px;
+    font-size: 25px;
+    font-weight: 20px;
+   
+}
+
+.recuadro{
+    font-size: 25px;
+   color: white;
+}
+
+.color{
+    color: white;
+}
+
+.botones {
+    font-size: 25px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-color:#fff;
+    border-radius: 30px;
+    padding: 4px 10px;
+    border-width: 5px;
+    border-color: buttonborder;
+    cursor: pointer;    
+    
+}
+
+.display{
+    
+    font-size: 25px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-color:#fff;
+    border-radius: 30px;
+    padding: 4px 10px;
+    border-width: 5px;
+    border-color: buttonborder;
+    cursor: pointer;    
+    
+
+}
+
+.operadores {
+    font-size: 25px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-color:#fff;
+    border-radius: 30px;
+    padding: 4px 10px;
+    border-width: 5px;
+    border-color: buttonborder;
+    cursor: pointer;    
+    
+}
+
+.input {
+    font-size: 25px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-color:#fff;
+    border-radius: 30px;
+    padding: 4px 10px;
+    border-width: 5px;
+    border-color: buttonborder;
+    cursor: pointer; 
+}
+
+.success {
+    border: 3px solid green;   
+}
+
+.error{
+    border: 3px solid red;
+    
+}
+
